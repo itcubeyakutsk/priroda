@@ -1,0 +1,22 @@
+html{
+    background-color: #AAAAAA;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p,li{
+    font-size: 20px;
+}
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #01ff80;
+    border: 3px solid black;
+    padding: 0 20px 20px 20px;
+}
+img{
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
